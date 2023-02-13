@@ -1,5 +1,5 @@
 {
-    "name": "backpack/activity-log",
+    "name": "tannhatcms/activity-log",
     "description": "Activity Log for Backpack",
     "license": "MIT",
     "authors": [
@@ -19,7 +19,7 @@
         "Laravel", "Backpack", "Backpack for Laravel", "Backpack Addon", "ActivityLog"
     ],
     "require": {
-        "backpack/crud": "^5.3.13",
+        
         "spatie/laravel-activitylog": "^4.7"
     },
     "require-dev": {
